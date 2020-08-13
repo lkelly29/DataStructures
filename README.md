@@ -1,2 +1,2 @@
-# DataStructures
-Data Structure Projects
+# Towers of Hanoi
+Data Structure - Stacks
